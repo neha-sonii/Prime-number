@@ -1,2 +1,3 @@
-# Find Orime Number
+# Find Prime Number
 
+write a number and
